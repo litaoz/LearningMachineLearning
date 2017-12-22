@@ -1,6 +1,6 @@
 # Recipe1.py
 # 
-# Categorizes apple and oranges based on features
+# Categorizes apple and oranges based on features using a decision tree
 # Info provided in the table below:
 #
 # | Weight | Texture | Label  |
